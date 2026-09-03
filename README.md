@@ -1,2 +1,2 @@
 # smart-_study-_planner
-A Python CLI application for logging and analyzing study sessions.
+A console-based Python programme helping a student log, review and analyse their study sessions across different subjects over the course of a semester
